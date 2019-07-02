@@ -9,6 +9,7 @@ Pink
 Blue
 Purple
 Black
+Dog
 White
 
 These are colors of the rainbow 
