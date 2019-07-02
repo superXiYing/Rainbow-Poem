@@ -1,0 +1,11 @@
+The Rainbow
+
+Red
+Orange
+Yellow
+Green
+Pink
+Blue
+Purple
+
+These are colors of the rainbow.
