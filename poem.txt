@@ -8,5 +8,6 @@ Pink
 Blue
 Purple
 Black
+White
 
 These are colors of the rainbow.
