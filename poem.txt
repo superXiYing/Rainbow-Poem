@@ -11,6 +11,7 @@ Purple
 Black
 Dog
 White
+pony
 
 These are colors of the rainbow 
 And the Unicorn.
