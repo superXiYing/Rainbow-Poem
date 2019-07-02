@@ -7,5 +7,6 @@ Green
 Pink
 Blue
 Purple
+Black
 
 These are colors of the rainbow.
