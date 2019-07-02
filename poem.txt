@@ -4,10 +4,12 @@ Red
 Orange
 Yellow
 Green
+Unicorn
 Pink
 Blue
 Purple
 Black
 White
 
-These are colors of the rainbow.
+These are colors of the rainbow 
+And the Unicorn.
